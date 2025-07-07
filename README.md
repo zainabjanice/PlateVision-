@@ -30,6 +30,13 @@ PlateVision is a lightweight computer vision pipeline that performs automatic de
 
 - Vehicle Identification in gated areas
 
+
+
+
+
+
+
+
 - Sustainable transport tech demos
 
   
