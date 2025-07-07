@@ -33,8 +33,8 @@ PlateVision is a lightweight computer vision pipeline that performs automatic de
 - Sustainable transport tech demos
 
 
-### 📝AutoPlate Workflow Diagram
-
+### 📝PlateVision Workflow Diagram
+<img width="451" height="1032" alt="Image" src="https://github.com/user-attachments/assets/20f1a2c8-80e3-4196-8a45-82b1ddb32bc6" />
 
 
 ### 🤖 AutoPlate in Action – Real-Time Demo
