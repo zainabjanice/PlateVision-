@@ -43,9 +43,9 @@ https://github.com/user-attachments/assets/9c8a6fa0-efde-47ba-8956-fb80bd40c91e
 
 
 ### 📁 How to Run
-git clone https://github.com/yourusername/AutoPlate.git
+git clone https://github.com/yourusername/PlateVision.git
 
-cd AutoPlate
+cd PlateVision
 
 pip install -r requirements.txt
 
