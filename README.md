@@ -1,5 +1,5 @@
 ## 🚗 PlateVision – Real-Time Spanish License Plate Recognition using YOLOv8 & EasyOCR
-PlateVision is a lightweight computer vision pipeline that performs automatic detection and recognition of Spanish license plates from  video frames in real-time. Powered by YOLOv8 for object detection and EasyOCR for character recognition, the system simulates real-world use cases in traffic monitoring, parking systems, and smart city infrastructure.
+PlateVision is a lightweight computer vision pipeline that performs automatic detection and recognition of Spanish license plates from  video frames in real time. Powered by YOLOv8 for object detection and EasyOCR for character recognition, the system simulates real-world use cases in traffic monitoring, parking systems, and smart city infrastructure.
 
 ###  🔍 Features
 - ⚡ Fast & Accurate Plate Detection with YOLOv8
@@ -30,14 +30,11 @@ PlateVision is a lightweight computer vision pipeline that performs automatic de
 
 - Vehicle Identification in gated areas
 
-
-
-
-
-
-
-
 - Sustainable transport tech demos
+
+
+### 🤖 AutoPlate in Action – Real-Time Demo
+https://github.com/user-attachments/assets/9c8a6fa0-efde-47ba-8956-fb80bd40c91e
 
   
 
